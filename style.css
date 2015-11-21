@@ -6,4 +6,7 @@
 
 div {
 	font-size: 200px;
+	background: black;
+	width: 100px;
+	height: 200px;
 }
