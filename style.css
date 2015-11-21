@@ -3,3 +3,9 @@
 	margin: 0;
 	background: white;
 }
+
+div {
+	background: black;
+	width: 100px;
+	height: 200px;
+}
